@@ -1,12 +1,12 @@
 [role="pagenumrestart"]
 [[ch01_intro_what_is_bitcoin]]
-== Introduction
+== Introductie
 
-=== What Is Bitcoin?
+=== Wat Is Bitcoin?
 
-((("bitcoin", "defined", id="GSdefine01")))Bitcoin is a collection of concepts and technologies that form the basis of a digital money ecosystem. Units of currency called bitcoin are used to store and transmit value among participants in the bitcoin network. Bitcoin users communicate with each other using the bitcoin protocol primarily via the internet, although other transport networks can also be used. The bitcoin protocol stack, available as open source software, can be run on a wide range of computing devices, including laptops and smartphones, making the technology easily accessible.
+((("bitcoin", "defined", id="GSdefine01")))Bitcoin is een verzameling concepten en technologieën die de basis vormen van een digitaal geldecosysteem. Eenheden van valuta genaamd bitcoin worden gebruikt om waarde op te slaan en te verzenden aan deelnemers van het bitcoin-netwerk. Bitcoin-gebruikers communiceren met elkaar via het bitcoin-protocol, voornamelijk via internet, hoewel ook andere transportnetwerken kunnen worden gebruikt. De bitcoin-protocolstack, beschikbaar als open source-software, draait op een breed scala aan computerapparatuur, waaronder laptops en smartphones, waardoor de technologie laagdrempelig is.
 
-Users can transfer bitcoin over the network to do just about anything that can be done with conventional currencies, including buying and selling goods, sending money to people or organizations, or extending credit. Bitcoin can be purchased, sold, and exchanged for other currencies at specialized currency exchanges. Bitcoin in a sense is the perfect form of money for the internet because it is fast, secure, and borderless.
+Gebruikers kunnen bitcoin over het netwerk sturen en zo ongeveer alles doen dat met conventionele valuta kan worden gedaan, inclusief het kopen en verkopen van goederen, het verzenden van geld naar mensen of organisaties of het verlengen van krediet. Bitcoin kan worden gekocht, verkocht en ingewisseld voor andere valuta's bij gespecialiseerde valutabeurzen. Bitcoin is in zekere zin de perfecte vorm van geld voor internet omdat het snel, veilig en grenzeloos is.
 
 Unlike traditional currencies, bitcoin is entirely virtual. There are no physical coins or even digital coins per se. The coins are implied in transactions that transfer value from sender to recipient. Users of bitcoin own keys that allow them to prove ownership of bitcoin in the bitcoin network. With these keys, they can sign transactions to unlock the value and spend it by transferring it to a new owner. Keys are often stored in a digital wallet on each user’s computer or smartphone. Possession of the key that can sign a transaction is the only prerequisite to spending bitcoin, putting the control entirely in the hands of each user.
 
