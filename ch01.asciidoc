@@ -14,14 +14,14 @@ Bitcoin is een gedistribueerd peer-to-peer-systeem. Als zodanig is er geen "cent
 
 The bitcoin protocol includes built-in algorithms that regulate the mining function across the network. The difficulty of the processing task that miners must perform is adjusted dynamically so that, on average, someone succeeds every 10 minutes regardless of how many miners (and how much processing) are competing at any moment. The protocol also halves the rate at which new bitcoin is created every 4 years, and limits the total number of bitcoin that will be created to a fixed total just below 21 million coins. The result is that the number of bitcoin in circulation closely follows an easily predictable curve that approaches 21 million by the year 2140. Due to bitcoin's diminishing rate of issuance, over the long term, the bitcoin currency is deflationary. Furthermore, bitcoin cannot be inflated by "printing" new money above and beyond the expected issuance rate.
 
-Behind the scenes, bitcoin is also the name of the protocol, a peer-to-peer network, and a distributed computing innovation. The bitcoin currency is really only the first application of this invention. Bitcoin represents the culmination of decades of research in cryptography and distributed systems and includes four key innovations brought together in a unique and powerful combination. Bitcoin consists of:
+Achter de schermen is bitcoin ook de naam van het protocol, een peer-to-peer-netwerk en een gedistribueerde computerinnovatie. De bitcoin-valuta is eigenlijk pas de eerste toepassing van deze uitvinding. Bitcoin vertegenwoordigt de climax van decennialang onderzoek naar cryptografie en gedistribueerde systemen en omvat vier belangrijke innovaties die zijn samengebracht in een unieke en krachtige combinatie. Bitcoin bestaat uit:
 
-* A decentralized peer-to-peer network (the bitcoin protocol)
-* A public transaction ledger (the blockchain)
-* ((("mining and consensus", "consensus rules", "satisfying")))A set of rules for independent transaction validation and currency issuance (consensus rules)
-* A mechanism for reaching global decentralized consensus on the valid blockchain (Proof-of-Work algorithm)
+* Een gedecentraliseerd peer-to-peer-netwerk (het bitcoin protocol)
+* Een grootboek van openbare transacties (de _blockchain_)
+* ((("mining and consensus", "consensus rules", "satisfying")))Een reeks regels voor onafhankelijke transactievalidatie en valuta-uitgifte (consensus regels)
+* Een mechanisme om wereldwijde gedecentraliseerde consensus te bereiken over de geldige blockchain (_Proof-of-Work_ algoritme)
 
-As a developer, I see bitcoin as akin to the internet of money, a network for propagating value and securing the ownership of digital assets via distributed computation. There's a lot more to bitcoin than first meets the eye.
+Als ontwikkelaar zie ik bitcoin verwant aan _the internet of money_, een netwerk voor het verspreiden van waarde en het beveiligen van het eigendom van digitale activa via gedistribueerde berekeningen. Bitcoin omvat veel meer dan wat zichtbaar is bij een eerste indruk.
 
 In this chapter we'll get started by explaining some of the main concepts and terms, getting the necessary software, and using bitcoin for simple transactions. In the following chapters, we'll start unwrapping the layers of technology that make bitcoin possible and examine the inner workings of the bitcoin network and protocol.((("", startref="GSdefine01")))
 
