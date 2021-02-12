@@ -4,7 +4,7 @@
 
 === Wat Is Bitcoin?
 
-((("bitcoin", "defined", id="GSdefine01")))Bitcoin is een verzameling concepten en technologieën die de basis vormen van een digitaal geldecosysteem. Eenheden van valuta genaamd bitcoin worden gebruikt om waarde op te slaan en te verzenden aan deelnemers van het bitcoin-netwerk. Bitcoin-gebruikers communiceren met elkaar via het bitcoin-protocol, voornamelijk via internet, hoewel ook andere transportnetwerken kunnen worden gebruikt. De bitcoin-protocolstack, beschikbaar als open source-software, draait op een breed scala aan computerapparatuur, waaronder laptops en smartphones, waardoor de technologie laagdrempelig is.
+((("bitcoin", "defined", id="GSdefine01")))Bitcoin is een verzameling concepten en technologieën die de basis vormen van een digitaal geldecosysteem. Eenheden van valuta genaamd bitcoin worden gebruikt om waarde op te slaan en te verzenden aan deelnemers van het bitcoin-netwerk. Bitcoin-gebruikers communiceren met elkaar via het bitcoin-protocol, voornamelijk via het internet, hoewel ook andere transportnetwerken kunnen worden gebruikt. De bitcoin-protocolstack, beschikbaar als open source-software, draait op een breed scala aan computerapparatuur, waaronder laptops en smartphones, waardoor de technologie laagdrempelig is.
 
 Gebruikers kunnen bitcoin over het netwerk sturen en zo ongeveer alles doen dat met conventionele valuta kan worden gedaan, inclusief het kopen en verkopen van goederen, het verzenden van geld naar mensen of organisaties of het verlengen van krediet. Bitcoin kan worden gekocht, verkocht en ingewisseld voor andere valuta's bij gespecialiseerde valutabeurzen. Bitcoin is in zekere zin de perfecte vorm van geld voor internet omdat het snel, veilig en grenzeloos is.
 
