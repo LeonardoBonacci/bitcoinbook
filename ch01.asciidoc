@@ -18,10 +18,10 @@ Achter de schermen is bitcoin ook de naam van het protocol, een peer-to-peer-net
 
 * Een gedecentraliseerd peer-to-peer-netwerk (het bitcoin protocol)
 * Een grootboek van openbare transacties (de _blockchain_)
-* ((("mining and consensus", "consensus rules", "satisfying")))Een reeks regels voor onafhankelijke transactievalidatie en valuta-uitgifte (consensus regels)
+* ((("mining and consensus", "consensus rules", "satisfying")))Een set regels voor onafhankelijke transactievalidatie en valuta-uitgifte (consensus regels)
 * Een mechanisme om wereldwijde gedecentraliseerde consensus te bereiken over de geldige blockchain (_Proof-of-Work_ algoritme)
 
-Als ontwikkelaar zie ik bitcoin verwant aan _the internet of money_, een netwerk voor het verspreiden van waarde en het beveiligen van het eigendom van digitale activa via gedistribueerde berekeningen. Bitcoin omvat veel meer dan wat zichtbaar is bij een eerste indruk.
+Als ontwikkelaar zie ik bitcoin verwant aan _the internet of money_, een netwerk voor het verspreiden van waarde en het beveiligen van eigendom van digitale activa via een gedistribueerde oplossing. Bitcoin omvat veel meer dan wat zichtbaar is bij een eerste indruk.
 
 In this chapter we'll get started by explaining some of the main concepts and terms, getting the necessary software, and using bitcoin for simple transactions. In the following chapters, we'll start unwrapping the layers of technology that make bitcoin possible and examine the inner workings of the bitcoin network and protocol.((("", startref="GSdefine01")))
 
