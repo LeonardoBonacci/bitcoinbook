@@ -30,7 +30,7 @@ In dit hoofdstuk beginnen we met het uitleggen van enkele van de belangrijkste c
 .Digitale Munteenheden voor de Bitcoin
 ****
 
-((("digital currencies", "prior to bitcoin")))The emergence of viable digital money is closely linked to developments in cryptography. This is not surprising when one considers the fundamental challenges involved with using bits to represent value that can be exchanged for goods and services. Three basic questions for anyone accepting digital money are:
+((("digital currencies", "prior to bitcoin")))De opkomst van bruikbaar digitaal geld is nauw verbonden met ontwikkelingen in cryptografie. Dit is niet verwonderlijk als men de fundamentele uitdagingen beschouwt die gepaard gaan met het gebruik van bits om waarde te vertegenwoordigen die kan worden ingewisseld voor goederen en diensten. Drie basisvragen voor iedereen die digitaal geld accepteert zijn:
 
 1.     Can I trust that the money is authentic and not counterfeit?
 2.     Can I trust that the digital money can only be spent once (known as the “double-spend” problem)?
