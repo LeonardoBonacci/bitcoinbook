@@ -2,7 +2,7 @@
 [[ch01_intro_what_is_bitcoin]]
 == Introductie
 
-=== Wat Is Bitcoin?
+=== Wat is Bitcoin?
 
 ((("bitcoin", "defined", id="GSdefine01")))Bitcoin is een verzameling concepten en technologieën die de basis vormen van een digitaal geldecosysteem. Eenheden van valuta genaamd bitcoin worden gebruikt om waarde op te slaan en te verzenden aan deelnemers van het 
 . Bitcoin-gebruikers communiceren met elkaar via het bitcoin-protocol, voornamelijk via het internet, hoewel ook andere transportnetwerken kunnen worden gebruikt. De bitcoin-protocolstack, beschikbaar als open source-software, draait op een breed scala aan computerapparatuur, waaronder laptops en smartphones, waardoor de technologie laagdrempelig is.
@@ -44,7 +44,7 @@ Toen cryptografie eind jaren tachtig breder toegankelijk en begrepen werd, begon
 
 ****
 
-=== History of Bitcoin
+=== De geschiedenis van Bitcoin
 
 ((("Nakamoto, Satoshi")))((("distributed computing")))((("bitcoin", "history of")))Bitcoin werd uitgevonden in 2008 met de publicatie van een artikel met de titel "Bitcoin: A Peer-to-Peer Electronic Cash System,"footnote:["Bitcoin: A Peer-to-Peer Electronic Cash System," Satoshi Nakamoto (https://bitcoin.org/bitcoin.pdf).] geschreven onder de alias _Satoshi Nakamoto_ (see <<satoshi_whitepaper>>). Nakamoto combineerde verscheidene bestaande uitvindingen zoals b-money en HashCash om een volledig gedecentraliseerd elektronisch geldsysteem te creëren dat niet afhankelijk is van een centrale autoriteit voor valuta-uitgifte of afwikkeling en validatie van transacties. ((("Proof-of-Work algorithm")))((("decentralized systems", "consensus in")))((("mining and consensus", "Proof-of-Work algorithm")))De belangrijkste innovatie was het gebruik van een gedistribueerd rekensysteem (een "Proof-of-Work" -algoritme genoemd) om elke 10 minuten een wereldwijde "verkiezing" te houden, waarmee het gedecentraliseerde netwerk tot consensus kan komen over de stand/status van de transacties. ((("double-spend problem")))((("spending bitcoin", "double-spend problem")))Dit lost op elegante wijze het _double-spend_ probleem op waarbij een enkele munteenheid twee keer wordt uitgegeven. Voorheen was het _double-spend_ probleem een zwakte van digitale valuta en werd het opgelost door alle transacties te vereffenen via een centraal verrekenkantoor.
 
